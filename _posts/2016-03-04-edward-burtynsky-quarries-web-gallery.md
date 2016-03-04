@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.edwardburtynsky.com/site_contents/Photographs/Quarries.html'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: true
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - makrana
   - quarryman
 description: "QUARRIES - Artist's Statement \"The concept of the landscape as architecture has become, for me, an act of imagination. I remember looking at buildings made of stone, and thinking, there has to be an interesting landscape somewhere out there because these stones had to have been taken out of the quarry one block at a time."
-datePublished: '2016-03-04T16:42:32.288Z'
-dateModified: '2016-03-04T16:42:20.192Z'
+datePublished: '2016-03-04T16:57:25.765Z'
+dateModified: '2016-03-04T16:57:22.235Z'
 author: []
 related: []
 app_links: []
 title: Edward Burtynsky QUARRIES Web Gallery
+sourcePath: _posts/2016-03-04-edward-burtynsky-quarries-web-gallery.md
+published: true
 authors: []
 publisher:
   name: Edwardburtynsky
   domain: www.edwardburtynsky.com
   url: 'http://www.edwardburtynsky.com'
   favicon: 'http://www.edwardburtynsky.com/EB_favicon.gif'
-sourcePath: _posts/2016-03-04-edward-burtynsky-quarries-web-gallery.md
-published: true
+url: edward-burtynsky-quarries-web-gallery/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
