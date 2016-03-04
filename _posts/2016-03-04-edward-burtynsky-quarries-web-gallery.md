@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: true
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - makrana
   - quarryman
 description: "QUARRIES - Artist's Statement \"The concept of the landscape as architecture has become, for me, an act of imagination. I remember looking at buildings made of stone, and thinking, there has to be an interesting landscape somewhere out there because these stones had to have been taken out of the quarry one block at a time."
-datePublished: '2016-03-04T16:57:25.765Z'
-dateModified: '2016-03-04T16:57:22.235Z'
+datePublished: '2016-03-04T17:02:09.945Z'
+dateModified: '2016-03-04T17:00:46.968Z'
 author: []
 related: []
 app_links: []
