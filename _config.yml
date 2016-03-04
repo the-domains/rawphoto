@@ -1,7 +1,7 @@
 name: rawphoto
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.51334
+typography_spectrum: 0.20335
 title: rawphoto - Nelson Cristo Photography
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#004E98'
   brandStrength: 0.414524256484583
   lightness: 0.6260869002435356
-  saturation: 0.5370708468835801
+  saturation: 0.375
   rhythmicContrast: 0.9377013412304223
 purpose: []
