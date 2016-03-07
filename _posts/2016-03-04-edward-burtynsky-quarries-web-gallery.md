@@ -16,9 +16,9 @@ keywords:
   - architecture
   - makrana
   - quarryman
-description: "QUARRIES - Artist's Statement \"The concept of the landscape as architecture has become, for me, an act of imagination. I remember looking at buildings made of stone, and thinking, there has to be an interesting landscape somewhere out there because these stones had to have been taken out of the quarry one block at a time."
-datePublished: '2016-03-07T12:03:33.617Z'
-dateModified: '2016-03-07T12:03:31.841Z'
+description: "QUARRIES - Artist's Statement \"The concept of the landscape as architecture has become, for me, an act of imagination. I remember looking at buildings made of stone, and thinking, there has to be an interesting landscape somewhere out there because these stones had to have been taken out of the quarry one block at a time.\" Totally true! Nelson Cristo"
+datePublished: '2016-03-07T12:08:47.522Z'
+dateModified: '2016-03-07T12:08:47.098Z'
 author: []
 related: []
 app_links: []
