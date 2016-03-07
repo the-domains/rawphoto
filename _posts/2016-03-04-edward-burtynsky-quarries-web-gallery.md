@@ -17,12 +17,12 @@ keywords:
   - makrana
   - quarryman
 description: "QUARRIES - Artist's Statement \"The concept of the landscape as architecture has become, for me, an act of imagination. I remember looking at buildings made of stone, and thinking, there has to be an interesting landscape somewhere out there because these stones had to have been taken out of the quarry one block at a time."
-datePublished: '2016-03-04T17:36:36.964Z'
-dateModified: '2016-03-04T17:35:16.848Z'
+datePublished: '2016-03-07T12:03:33.617Z'
+dateModified: '2016-03-07T12:03:31.841Z'
 author: []
 related: []
 app_links: []
-title: Edward Burtynsky QUARRIES Web Gallery
+title: Edward Burtynsky QUARRIES
 sourcePath: _posts/2016-03-04-edward-burtynsky-quarries-web-gallery.md
 published: true
 authors: []
