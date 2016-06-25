@@ -4,7 +4,7 @@
         <description><![CDATA[rawphoto - Nelson Cristo Photography]]></description>
         <link>https://thegrid.ai/rawphoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 13:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 13:48:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rawphoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ExperimentaDesign, Visit to Alentejo Gallery]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/rawphoto/9556a290-e399-478d-80fd-84617ff8894e/index.html</link>
             <guid isPermaLink="false">9556a290-e399-478d-80fd-84617ff8894e</guid>
             <pubDate>Mon, 07 Mar 2016 12:04:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[São Domingos Mines, Portugal]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c712698-050b-451d-b96e-9a69216e5800.jpg">]]></description>
+            <link>https://thegrid.ai/rawphoto/sao-domingos-mines-portugal/index.html</link>
+            <guid isPermaLink="false">a5fb5c7f-ad3b-49c3-989a-646210c24fc6</guid>
+            <pubDate>Sat, 25 Jun 2016 13:47:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
