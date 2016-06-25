@@ -1,29 +1,41 @@
-name: rawphoto
-favicon: null
-layout_spectrum: 0.25677
-typography_spectrum: 0.20335
 title: rawphoto - Nelson Cristo Photography
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.375
+  brandStrength: 0.414524256484583
+  rhythmicContrast: 0.9377013412304223
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  lightness: 0.6260869002435356
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: rawphoto
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2a417f'
-    - '#100d1d'
-    - '#527cbe'
-    - '#9fafc6'
-    - '#ededed'
-  brandStrength: 0.414524256484583
-  lightness: 0.6260869002435356
-  saturation: 0.375
-  rhythmicContrast: 0.9377013412304223
-purpose: []
+typography_spectrum: 0.20335
+layout_spectrum: 0.1863799
