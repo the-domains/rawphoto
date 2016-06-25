@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'São Domingos Mines, Portugal'
-datePublished: '2016-06-25T13:47:33.849Z'
-dateModified: '2016-06-25T13:47:05.035Z'
+datePublished: '2016-06-25T14:02:56.264Z'
+dateModified: '2016-06-25T13:47:41.979Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-25-sao-domingos-mines-portugal.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-25-sao-domingos-mines-portugal.md
 url: sao-domingos-mines-portugal/index.html
 _type: Article
 
