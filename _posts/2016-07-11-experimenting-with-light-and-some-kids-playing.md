@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Experimenting with light and some kids playing
-datePublished: '2016-07-11T21:39:01.117Z'
-dateModified: '2016-07-11T21:38:36.079Z'
+datePublished: '2016-07-14T15:29:21.306Z'
+dateModified: '2016-07-11T21:39:22.748Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-11-experimenting-with-light-and-some-kids-playing.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-11-experimenting-with-light-and-some-kids-playing.md
+starred: true
 url: experimenting-with-light-and-some-kids-playing/index.html
 _type: Article
 
