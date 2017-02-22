@@ -1,5 +1,46 @@
-title: rawphoto - Nelson Cristo Photography
-purpose: []
+layout_spectrum: 0.5098725478372325
+typography_spectrum: 0.13732668662572853
+color:
+  saturation: 0.6152536465181498
+  brandStrength: 0.043073567540689126
+  rhythmicContrast: 0.039450462685971716
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  lightness: 0.9742879110856885
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: UA-44801613-2
+  facebook: null
+author:
+  name: Copyright © 2017 Nelson Cristo Photography - All Rights Reserved
+  email: nelson.cristo@gmail.com
+  url: www.rawphoto.pt
+logo: null
+name: rawphoto
+url: 'http://rawphoto.pt'
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: nothingmatters
+    id: 4f0e7e36-4917-469e-a2a6-5759badaed23
+    type: content
+  - name: moods...
+    id: a08bb706-823e-40f5-b5e9-9adebdc61fb2
+    type: content
+  - name: about
+    id: 27f069db-2abe-4395-8e1b-b9dec6db0f57
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +53,14 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.375
-  brandStrength: 0.414524256484583
-  rhythmicContrast: 0.9377013412304223
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.6260869002435356
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: rawphoto
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.20335
-layout_spectrum: 0.1863799
+title: Nelson Cristo Photography
+content: []
+description: >-
+  Mineral Resources & related manmade "industrial landscape
+  architecture"/Travel/Social Photography/Experiments. Sharing to, and from
+  others. Enjoy!
+purpose:
+  - type: contact
+    url: 'mailto:nelson.cristo@gmail.com'
+    label: Contact
+github: true
