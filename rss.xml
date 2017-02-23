@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Feb 2017 00:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2017 00:29:54 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Feb 2017 00:29:32 GMT</pubDate>
+        <pubDate>Thu, 23 Feb 2017 00:29:49 GMT</pubDate>
+        <item>
+            <title><![CDATA[Kütahya, Turkey]]></title>
+            <description><![CDATA[<h1>Kütahya, Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9d40a8c-fc42-4161-95e0-77fe687d4de7.jpg">]]></description>
+            <link>http://rawphoto.pt/kutahya-turkey/index.html</link>
+            <guid isPermaLink="false">bbc62d70-17f7-4a08-a41d-7969366acd0d</guid>
+            <pubDate>Thu, 23 Feb 2017 00:29:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Evora #2]]></title>
             <description><![CDATA[<h1>Evora #2</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7054c4ec-bd2f-4ac4-bd87-44c6d57838f5.jpg" title="Suspicious Move">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/evora-2/index.html</link>
             <guid isPermaLink="false">e7f8a12e-f4c6-49f0-afc1-91a2277907d7</guid>
             <pubDate>Wed, 08 Feb 2017 10:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[…a morning in Évora]]></title>
-            <description><![CDATA[<h1>…a morning in Évora</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b783ef8-5166-442c-b054-8d0e67f4e21e.jpg">]]></description>
-            <link>http://rawphoto.pt/a-morning-in-evora/index.html</link>
-            <guid isPermaLink="false">a1acdebb-94ae-4119-be30-82bb7fedb370</guid>
-            <pubDate>Tue, 07 Feb 2017 09:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
