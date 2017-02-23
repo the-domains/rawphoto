@@ -1,31 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[rawphoto - Nelson Cristo Photography]]></title>
-        <description><![CDATA[rawphoto - Nelson Cristo Photography]]></description>
-        <link>https://thegrid.ai/rawphoto/</link>
+        <title><![CDATA[Nelson Cristo Photography]]></title>
+        <description><![CDATA[Nelson Cristo Photography]]></description>
+        <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 15:30:00 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/rawphoto/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Feb 2017 00:29:36 GMT</lastBuildDate>
+        <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 23 Feb 2017 00:29:32 GMT</pubDate>
         <item>
-            <title><![CDATA[São Domingos Mines, Portugal]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c712698-050b-451d-b96e-9a69216e5800.jpg">]]></description>
-            <link>https://thegrid.ai/rawphoto/sao-domingos-mines-portugal/index.html</link>
-            <guid isPermaLink="false">a5fb5c7f-ad3b-49c3-989a-646210c24fc6</guid>
-            <pubDate>Thu, 14 Jul 2016 15:29:57 GMT</pubDate>
+            <title><![CDATA[Evora #2]]></title>
+            <description><![CDATA[<h1>Evora #2</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7054c4ec-bd2f-4ac4-bd87-44c6d57838f5.jpg" title="Suspicious Move">]]></description>
+            <link>http://rawphoto.pt/evora-2/index.html</link>
+            <guid isPermaLink="false">a0992d40-e0e8-49ef-bcb1-f049a65a54ab</guid>
+            <pubDate>Tue, 21 Feb 2017 23:18:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b4594eb-e9ed-45a3-879f-22e2aacab4c3.jpg">]]></description>
-            <link>https://thegrid.ai/rawphoto/experimenting-with-light-and-some-kids-playing/index.html</link>
-            <guid isPermaLink="false">f3e4cd6d-4682-4c07-a3aa-deb4b6e42122</guid>
-            <pubDate>Thu, 14 Jul 2016 15:29:21 GMT</pubDate>
+            <title><![CDATA[Stone & Blades]]></title>
+            <description><![CDATA[<h1>Stone &amp; Blades</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d065a94-d19c-4d66-9af1-f7e1b4579d3a.jpg" title="Stone &amp; Blades">]]></description>
+            <link>http://rawphoto.pt/stone-and-blades/index.html</link>
+            <guid isPermaLink="false">09c57920-195d-438e-9023-604e7889b13a</guid>
+            <pubDate>Tue, 21 Feb 2017 10:13:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ExperimentaDesign, Visit to Alentejo Gallery]]></title>
-            <description><![CDATA[<article><h1>ExperimentaDesign, Visit to Alentejo Gallery</h1><p>ExperimentaDesign &Alentejo Quarries Gallery</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5be7c08db126190e02edadc1fb4620ea9f022da.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rawphoto/9556a290-e399-478d-80fd-84617ff8894e/index.html</link>
-            <guid isPermaLink="false">9556a290-e399-478d-80fd-84617ff8894e</guid>
-            <pubDate>Mon, 07 Mar 2016 12:04:13 GMT</pubDate>
+            <title><![CDATA[Cordoba, Argentina]]></title>
+            <description><![CDATA[<h1>Cordoba, Argentina</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dc339dc-811e-4c49-8e5a-39860e6feaf5.jpg">]]></description>
+            <link>http://rawphoto.pt/cordoba-argentina/index.html</link>
+            <guid isPermaLink="false">3067a903-5206-4f42-9053-82a9588f7deb</guid>
+            <pubDate>Sun, 19 Feb 2017 23:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Untitled #6]]></title>
+            <description><![CDATA[<h1>Untitled #6</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54a2ee26-e78c-481a-b4ab-0c55f7d708c7.jpg">]]></description>
+            <link>http://rawphoto.pt/untitled-6/index.html</link>
+            <guid isPermaLink="false">37c91cbc-37a1-4cf9-a1df-c803a58cc38d</guid>
+            <pubDate>Fri, 17 Feb 2017 10:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Granites from Alentejo - Évora]]></title>
+            <description><![CDATA[<h1>Granites from Alentejo - Évora</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40590cd9-2bc3-4b4b-bbb2-01caf5d988b4.jpg">]]></description>
+            <link>http://rawphoto.pt/granites-from-alentejo-evora/index.html</link>
+            <guid isPermaLink="false">2b5dfd68-4a84-4b23-ba65-84501e61d0ac</guid>
+            <pubDate>Wed, 15 Feb 2017 01:11:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Untitled #4]]></title>
+            <description><![CDATA[<h1>Untitled #4</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9cd394d-04e4-45b0-afe6-c41458c209b1.jpg">]]></description>
+            <link>http://rawphoto.pt/untitled-4/index.html</link>
+            <guid isPermaLink="false">1ebed613-2f08-4572-87f7-20e464c621ca</guid>
+            <pubDate>Mon, 13 Feb 2017 09:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Untitled #5]]></title>
+            <description><![CDATA[<h1>Untitled #5</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/283afba7-17e5-4072-aaba-6334a5b05cac.jpg">]]></description>
+            <link>http://rawphoto.pt/untitled-5/index.html</link>
+            <guid isPermaLink="false">70ed11e5-496a-48e5-9167-b142482fd242</guid>
+            <pubDate>Sat, 11 Feb 2017 12:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bayburt - Turkey]]></title>
+            <description><![CDATA[<h1>Bayburt - Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba1cab8-b56e-4ae0-ab99-ef5afb0056ed.jpg">]]></description>
+            <link>http://rawphoto.pt/76d521eb-22f2-454f-92b9-6531a7b5208d/index.html</link>
+            <guid isPermaLink="false">76d521eb-22f2-454f-92b9-6531a7b5208d</guid>
+            <pubDate>Thu, 09 Feb 2017 10:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Évora #2]]></title>
+            <description><![CDATA[<h1>Évora #2</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/56d5decb-87c6-4201-8281-5c7a6b964a83.jpg">]]></description>
+            <link>http://rawphoto.pt/evora-2/index.html</link>
+            <guid isPermaLink="false">e7f8a12e-f4c6-49f0-afc1-91a2277907d7</guid>
+            <pubDate>Wed, 08 Feb 2017 10:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[…a morning in Évora]]></title>
+            <description><![CDATA[<h1>…a morning in Évora</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b783ef8-5166-442c-b054-8d0e67f4e21e.jpg">]]></description>
+            <link>http://rawphoto.pt/a-morning-in-evora/index.html</link>
+            <guid isPermaLink="false">a1acdebb-94ae-4119-be30-82bb7fedb370</guid>
+            <pubDate>Tue, 07 Feb 2017 09:07:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
