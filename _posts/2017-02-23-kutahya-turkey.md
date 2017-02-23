@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-20T19:40:13.780Z'
-datePublished: '2017-02-23T00:29:31.283Z'
+dateModified: '2017-02-23T00:29:45.893Z'
+datePublished: '2017-02-23T00:29:48.521Z'
 title: 'Kütahya, Turkey'
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-23-kutahya-turkey.md
 starred: false
 datePublishedOriginal: '2017-02-23T00:29:31.283Z'
-sourcePath: _posts/2017-02-23-kutahya-turkey.md
 url: kutahya-turkey/index.html
 _type: Article
 
