@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-23T00:29:45.893Z'
-datePublished: '2017-02-23T00:29:48.521Z'
+dateModified: '2017-02-23T00:30:36.268Z'
+datePublished: '2017-02-23T00:30:37.146Z'
 title: 'Kütahya, Turkey'
 author: []
 publisher:
