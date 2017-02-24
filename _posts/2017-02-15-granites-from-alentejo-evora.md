@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-23T00:29:45.893Z'
-datePublished: '2017-02-23T00:29:49.441Z'
+dateModified: '2017-02-24T08:43:08.582Z'
+datePublished: '2017-02-24T08:43:09.936Z'
 title: Granites from Alentejo - Évora
 author: []
 publisher:
