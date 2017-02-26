@@ -4,8 +4,8 @@ description: >-
   This part of the website is where I share and archive what matters to me, what
   I like to read or to see and that somehow relates to photography
   (photographers, just photographs, tutorials or simple daily curiosities).
-dateModified: '2017-02-24T08:44:44.871Z'
-datePublished: '2017-02-24T08:44:45.965Z'
+dateModified: '2017-02-26T00:12:55.948Z'
+datePublished: '2017-02-26T00:12:59.083Z'
 title: nothigmatters//blog
 author: []
 publisher: {}
@@ -30,7 +30,7 @@ Enjoy!
 
 ## [10 Reasons Why I Shoot With One Camera and One Lens][0]
 
-<article style=""><img src="https://i1.wp.com/erickimphotography.com/blog/wp-content/uploads/2017/02/eric-kim-photography-hanoi-0007085.jpg?fit=1200%2C795" /><h1>10 Reasons Why I Shoot With One Camera and One Lens</h1><p>Dear friend, I want to share with you why I only shoot with one camera, and one lens: This morning - I was going to write an article on why I wear the same thing every morning. Better than that- I figured I'd write about why I shoot with the same camera, and the same lens.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5e70d79a423b19a0a497c714f9055214b8e9eb0.jpg" /><h1>10 Reasons Why I Shoot With One Camera and One Lens</h1><p>Dear friend, I want to share with you why I only shoot with one camera, and one lens: This morning - I was going to write an article on why I wear the same thing every morning. Better than that- I figured I'd write about why I shoot with the same camera, and the same lens.</p></article>
 
 ## [Tales from a Street Photographer in St. Petersburg][1]
 
