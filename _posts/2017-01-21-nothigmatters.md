@@ -4,8 +4,8 @@ description: >-
   This part of the website is where I share and archive what matters to me, what
   I like to read or to see and that somehow relates to photography
   (photographers, just photographs, tutorials or simple daily curiosities).
-dateModified: '2017-02-27T17:30:31.673Z'
-datePublished: '2017-02-27T17:30:34.553Z'
+dateModified: '2017-02-27T17:30:38.684Z'
+datePublished: '2017-02-27T17:30:41.289Z'
 title: nothigmatters//blog
 author: []
 publisher: {}
@@ -29,6 +29,8 @@ Enjoy!
 ---
 
 ## [Multicolored Architectural Photography in Spain][0]
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f3e022aec650c6b2a646d25fd485e0e8/noop.jpg?input=http%3A%2F%2Fwww.fubiz.net%2Fwp-content%2Fuploads%2F2017%2F01%2Farchitecturespain-0-639x0.jpg" /><h1>Multicolored Architectural Photography in Spain</h1><p>As an enthusiast of architectural shots, the Swedish photographer Jeanette Hägglund seems to have found a nice playground in the city of La Manzanera, near Alicante. A creation designed by Ricardo Bofill, named Muralla Roja, which was shared on Fubiz two years ago.</p></article>
 
 ## [10 Reasons Why I Shoot With One Camera and One Lens][1]
 
@@ -177,8 +179,6 @@ Enjoy!
 ## [Photographer Snaps Once In A Life Time Photo Over London][37]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1411cd6ced7ba1d97bc03ac368b0e9e31e21d2df.jpg" /><h1>Photographer Snaps Once In A Life Time Photo Over London</h1><p>Photographer Mikael Buck paid a visit to The Shard but never expected to see such an incredible sight. On a cloudy day over London, the sunshine broke through the clouds and lit up the iconic St Paul's Cathedral for a split second and Mr Buck managed to snap this incredible image on his phone.</p></article>
-
-<article style=""><h1>Multicolored Architectural Photography in Spain</h1><p>As an enthusiast of architectural shots, the Swedish photographer Jeanette Hägglund seems to have found a nice playground in the city of La Manzanera, near Alicante. A creation designed by Ricardo Bofill, named Muralla Roja, which was shared on Fubiz two years ago.</p><img src="http://www.fubiz.net/wp-content/uploads/2017/01/architecturespain-0-639x0.jpg" /></article>
 
 ## [Exploring the Limits of the Human Body][38]
 
