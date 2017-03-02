@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Feb 2017 00:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2017 10:12:05 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Feb 2017 00:13:20 GMT</pubDate>
+        <pubDate>Thu, 02 Mar 2017 10:11:39 GMT</pubDate>
+        <item>
+            <title><![CDATA[People from “El caminito”]]></title>
+            <description><![CDATA[<h1>People from “El caminito”</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b10f4f-14b0-4974-ac3e-6bc53ece8a08.jpg">]]></description>
+            <link>http://rawphoto.pt/people-from-el-caminito/index.html</link>
+            <guid isPermaLink="false">a5817371-c8d5-45ab-8cc0-3dcb6519271d</guid>
+            <pubDate>Thu, 02 Mar 2017 10:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[at night…]]></title>
             <description><![CDATA[<h1>at night…</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8e9cb904c5a334d432748d68bba77706/croprotate.jpg?cropheight=1892&cropwidth=2744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F33c43c8b-5ba0-4803-a06d-b93657e8d500.jpg&x=0&y=0" title="at night...">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/untitled-5/index.html</link>
             <guid isPermaLink="false">70ed11e5-496a-48e5-9167-b142482fd242</guid>
             <pubDate>Sat, 11 Feb 2017 12:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bayburt - Turkey]]></title>
-            <description><![CDATA[<h1>Bayburt - Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ba1cab8-b56e-4ae0-ab99-ef5afb0056ed.jpg">]]></description>
-            <link>http://rawphoto.pt/76d521eb-22f2-454f-92b9-6531a7b5208d/index.html</link>
-            <guid isPermaLink="false">76d521eb-22f2-454f-92b9-6531a7b5208d</guid>
-            <pubDate>Thu, 09 Feb 2017 10:18:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
