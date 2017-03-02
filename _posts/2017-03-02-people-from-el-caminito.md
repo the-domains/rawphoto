@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-02T10:10:15.515Z'
-datePublished: '2017-03-02T10:10:28.733Z'
+dateModified: '2017-03-02T10:10:44.319Z'
+datePublished: '2017-03-02T10:10:45.503Z'
 title: People from “El caminito”
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-02-people-from-el-caminito.md
 starred: false
 datePublishedOriginal: '2017-03-02T10:10:28.733Z'
-sourcePath: _posts/2017-03-02-people-from-el-caminito.md
 url: people-from-el-caminito/index.html
 _type: Article
 
