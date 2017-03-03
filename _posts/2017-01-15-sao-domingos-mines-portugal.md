@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-02T10:10:44.319Z'
-datePublished: '2017-03-02T10:10:45.612Z'
+dateModified: '2017-03-03T09:09:09.629Z'
+datePublished: '2017-03-03T09:09:11.806Z'
 title: 'São Domingos Mines, Portugal'
 author: []
 publisher:
