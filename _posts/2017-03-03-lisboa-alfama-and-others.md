@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-03T09:08:48.779Z'
-datePublished: '2017-03-03T09:08:55.181Z'
+dateModified: '2017-03-03T09:09:09.629Z'
+datePublished: '2017-03-03T09:09:11.582Z'
 title: 'Lisboa, Alfama (and others…)'
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-03-lisboa-alfama-and-others.md
 starred: false
 datePublishedOriginal: '2017-03-03T09:08:55.181Z'
-sourcePath: _posts/2017-03-03-lisboa-alfama-and-others.md
 url: lisboa-alfama-and-others/index.html
 _type: Article
 
