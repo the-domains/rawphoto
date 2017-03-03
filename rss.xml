@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Mar 2017 09:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2017 09:10:59 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Mar 2017 09:08:57 GMT</pubDate>
+        <pubDate>Fri, 03 Mar 2017 09:10:10 GMT</pubDate>
+        <item>
+            <title><![CDATA[Lisboa, Alfama (and others…)]]></title>
+            <description><![CDATA[<h1>Lisboa, Alfama (and others…)</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/107fc570-c5c0-4b52-a2c5-a621479fcc7c.jpg" title="The runaway...">]]></description>
+            <link>http://rawphoto.pt/lisboa-alfama-and-others/index.html</link>
+            <guid isPermaLink="false">b962f393-87d2-46c3-8240-ba44771a08e8</guid>
+            <pubDate>Fri, 03 Mar 2017 09:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[People from “El caminito”]]></title>
             <description><![CDATA[<h1>People from “El caminito”</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b10f4f-14b0-4974-ac3e-6bc53ece8a08.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/untitled-4/index.html</link>
             <guid isPermaLink="false">1ebed613-2f08-4572-87f7-20e464c621ca</guid>
             <pubDate>Mon, 13 Feb 2017 09:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Untitled #5]]></title>
-            <description><![CDATA[<h1>Untitled #5</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/283afba7-17e5-4072-aaba-6334a5b05cac.jpg">]]></description>
-            <link>http://rawphoto.pt/untitled-5/index.html</link>
-            <guid isPermaLink="false">70ed11e5-496a-48e5-9167-b142482fd242</guid>
-            <pubDate>Sat, 11 Feb 2017 12:26:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
