@@ -4,8 +4,8 @@ description: >-
   This part of the website is where I share and archive what matters to me, what
   I like to read or to see and that somehow relates to photography
   (photographers, just photographs, tutorials or simple daily curiosities).
-dateModified: '2017-03-03T09:11:12.599Z'
-datePublished: '2017-03-03T09:11:13.515Z'
+dateModified: '2017-03-06T23:41:13.732Z'
+datePublished: '2017-03-06T23:41:16.910Z'
 title: nothigmatters//blog
 author: []
 publisher: {}
