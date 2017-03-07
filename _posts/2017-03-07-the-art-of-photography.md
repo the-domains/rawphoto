@@ -1,22 +1,22 @@
 ---
-inFeed: true
+datePublished: '2017-03-07T20:34:30.281Z'
 description: >-
   I started shooting (more often), roughly between 2005 and 2006, and like all
   recent parents when my first child was born, I bought a new camera to try to
   record, as best I could and know all the new moments we were experiencing,
   here at home.
-dateModified: '2017-03-07T17:06:35.948Z'
-datePublished: '2017-03-07T17:06:37.609Z'
-title: The Art of Photography
-author: []
+via: {}
+inFeed: true
 publisher:
-  url: 'http://theartofphotography.tv'
   name: The Art of Photography
   favicon: 'http://theartofphotography.tv/wp-content/themes/genesis/images/favicon.ico'
+  url: 'http://theartofphotography.tv'
   domain: theartofphotography.tv
-via: {}
-hasPage: true
+dateModified: '2017-03-07T20:34:22.061Z'
 sourcePath: _posts/2017-03-07-the-art-of-photography.md
+title: The Art of Photography
+hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-03-07T16:56:40.551Z'
 url: the-art-of-photography/index.html
@@ -51,7 +51,7 @@ But Ted Forbes is also a photographer, filmmaker and musician, so I could not mi
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e0af01d946b417257379010599cdc12f0bdd4b2.jpg" /><h1>Home | Ted Forbes</h1><p>Ted Forbes Website</p></article>
 
-**My sincere thanks to Ted Forbes for the excellent content he produces and for having taken the initiative to share with us. THANKS!**
+**My sincere thanks to Ted Forbes for the excellent content you produce and for having taken the initiative to share with us. THANKS!**
 
 I hope you all like it and enjoy it!
 
