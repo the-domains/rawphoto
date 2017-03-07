@@ -5,8 +5,8 @@ description: >-
   recent parents when my first child was born, I bought a new camera to try to
   record, as best I could and know all the new moments we were experiencing,
   here at home.
-dateModified: '2017-03-07T16:58:41.363Z'
-datePublished: '2017-03-07T16:58:41.806Z'
+dateModified: '2017-03-07T16:58:49.262Z'
+datePublished: '2017-03-07T16:58:50.341Z'
 title: The Art of Photography
 author: []
 publisher:
@@ -47,7 +47,7 @@ Please follow the link below to The Art of Photography website, it's a joy!
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d943e8b3d4e560038a6adc7a7c073394e5ae1ba4.jpg" /><h1>The Art of Photography Podcast</h1><p>The Art of Photography provides a 360° view of photography with a podcast, video tutorials, articles and resources.</p></article>
 
-But Ted Forbes is also a photographer and filmmaker and musician, so I could not miss the opportunity to also point the link below to his website where you can see fabulous photos, movies and some of his music.
+But Ted Forbes is also a photographer, filmmaker and musician, so I could not miss the opportunity to also point the link below to his website where you can see fabulous photos, movies and some of his music.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e0af01d946b417257379010599cdc12f0bdd4b2.jpg" /><h1>Home | Ted Forbes</h1><p>Ted Forbes Website</p></article>
 
