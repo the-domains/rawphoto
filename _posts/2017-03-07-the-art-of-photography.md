@@ -5,8 +5,8 @@ description: >-
   recent parents when my first child was born, I bought a new camera to try to
   record, as best I could and know all the new moments we were experiencing,
   here at home.
-dateModified: '2017-03-07T16:58:39.700Z'
-datePublished: '2017-03-07T16:58:40.344Z'
+dateModified: '2017-03-07T16:58:41.363Z'
+datePublished: '2017-03-07T16:58:41.806Z'
 title: The Art of Photography
 author: []
 publisher:
