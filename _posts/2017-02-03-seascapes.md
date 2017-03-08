@@ -1,8 +1,8 @@
 ---
 publisher:
   name: Nelson Cristo
-datePublished: '2017-03-07T16:56:55.169Z'
-dateModified: '2017-03-07T16:56:53.284Z'
+datePublished: '2017-03-08T23:33:06.859Z'
+dateModified: '2017-03-08T23:33:04.092Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-02-03-seascapes.md
