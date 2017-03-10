@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Mar 2017 10:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2017 10:35:30 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Mar 2017 10:33:47 GMT</pubDate>
+        <pubDate>Fri, 10 Mar 2017 10:35:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[Minerals#1]]></title>
+            <description><![CDATA[<h1>Minerals#1</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d04362-e8dc-43e7-97e9-a8634348f570.jpg">]]></description>
+            <link>http://rawphoto.pt/minerals1/index.html</link>
+            <guid isPermaLink="false">fc14270b-97dc-4c30-82c2-2c0e8b9d2773</guid>
+            <pubDate>Fri, 10 Mar 2017 10:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crane]]></title>
             <description><![CDATA[<h1>Crane</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2790d4dc-1608-42c9-b89d-e77008fcf2ed.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/stone-and-blades/index.html</link>
             <guid isPermaLink="false">09c57920-195d-438e-9023-604e7889b13a</guid>
             <pubDate>Tue, 21 Feb 2017 10:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cordoba, Argentina]]></title>
-            <description><![CDATA[<h1>Cordoba, Argentina</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dc339dc-811e-4c49-8e5a-39860e6feaf5.jpg">]]></description>
-            <link>http://rawphoto.pt/cordoba-argentina/index.html</link>
-            <guid isPermaLink="false">3067a903-5206-4f42-9053-82a9588f7deb</guid>
-            <pubDate>Sun, 19 Feb 2017 23:39:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
