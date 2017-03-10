@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Mar 2017 21:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2017 21:26:20 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Mar 2017 21:23:59 GMT</pubDate>
+        <pubDate>Fri, 10 Mar 2017 21:25:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[This Movie of Marble Being Quarried is Truly Mesmerizing]]></title>
+            <description><![CDATA[<h1>This Movie of Marble Being Quarried is Truly Mesmerizing</h1>,<p>Simply Amazing!</p>,<article><h1>{{ ($root.post &amp;&amp; $root.post.id) ? $root.post.translations[$root.lang].socialTitle : $root.seo.pageTitle | translate }}</h1><p>($root.post &amp;&amp; $root.post.id) ? $root.post.translations[$root.lang].socialSubtitle : $root.seo.metaDescription | translate }}</p></article>]]></description>
+            <link>http://bit.ly/ZXTGO9</link>
+            <guid isPermaLink="false">8b5e2302-717f-4012-90d4-f67bb464ed6e</guid>
+            <pubDate>Fri, 10 Mar 2017 21:23:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Minerals#1]]></title>
             <description><![CDATA[<h1>Minerals#1</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d04362-e8dc-43e7-97e9-a8634348f570.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/evora-2/index.html</link>
             <guid isPermaLink="false">a0992d40-e0e8-49ef-bcb1-f049a65a54ab</guid>
             <pubDate>Tue, 21 Feb 2017 23:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stone & Blades]]></title>
-            <description><![CDATA[<h1>Stone &amp; Blades</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d065a94-d19c-4d66-9af1-f7e1b4579d3a.jpg" title="Stone &amp; Blades">]]></description>
-            <link>http://rawphoto.pt/stone-and-blades/index.html</link>
-            <guid isPermaLink="false">09c57920-195d-438e-9023-604e7889b13a</guid>
-            <pubDate>Tue, 21 Feb 2017 10:13:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
