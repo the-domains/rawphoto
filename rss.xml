@@ -4,9 +4,9 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Mar 2017 21:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2017 21:26:30 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Mar 2017 21:25:35 GMT</pubDate>
+        <pubDate>Fri, 10 Mar 2017 21:25:38 GMT</pubDate>
         <item>
             <title><![CDATA[This Movie of Marble Being Quarried is Truly Mesmerizing]]></title>
             <description><![CDATA[<h1>This Movie of Marble Being Quarried is Truly Mesmerizing</h1>,<p>Simply Amazing!</p>,<article><h1>{{ ($root.post &amp;&amp; $root.post.id) ? $root.post.translations[$root.lang].socialTitle : $root.seo.pageTitle | translate }}</h1><p>($root.post &amp;&amp; $root.post.id) ? $root.post.translations[$root.lang].socialSubtitle : $root.seo.metaDescription | translate }}</p></article>]]></description>
