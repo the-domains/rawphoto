@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Simply Amazing!
-dateModified: '2017-03-10T21:23:38.838Z'
-datePublished: '2017-03-10T21:23:57.671Z'
+dateModified: '2017-03-10T21:24:21.620Z'
+datePublished: '2017-03-10T21:24:23.660Z'
 title: This Movie of Marble Being Quarried is Truly Mesmerizing
 author: []
 publisher:
@@ -12,9 +12,9 @@ publisher:
   domain: bit.ly
 via: {}
 isBasedOnUrl: 'http://bit.ly/ZXTGO9'
+sourcePath: _posts/2017-03-10-this-movie-of-marble-being-quarried-is-truly-mesmerizing.md
 starred: false
 datePublishedOriginal: '2017-03-10T21:23:57.671Z'
-sourcePath: _posts/2017-03-10-this-movie-of-marble-being-quarried-is-truly-mesmerizing.md
 _type: MediaObject
 
 ---
