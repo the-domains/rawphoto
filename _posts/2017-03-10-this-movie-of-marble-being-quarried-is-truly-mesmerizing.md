@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Simply Amazing!
-dateModified: '2017-03-10T21:28:25.228Z'
-datePublished: '2017-03-10T21:28:25.715Z'
+dateModified: '2017-03-10T21:31:55.051Z'
+datePublished: '2017-03-10T21:31:55.524Z'
 title: This Movie of Marble Being Quarried is Truly Mesmerizing
 author:
   - name: NOWNESS
@@ -14,11 +14,12 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 via: {}
-isBasedOnUrl: 'http://bit.ly/ZXTGO9'
 sourcePath: _posts/2017-03-10-this-movie-of-marble-being-quarried-is-truly-mesmerizing.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-10T21:23:57.671Z'
-_type: MediaObject
+url: this-movie-of-marble-being-quarried-is-truly-mesmerizing/index.html
+_type: Article
 
 ---
 # This Movie of Marble Being Quarried is Truly Mesmerizing
