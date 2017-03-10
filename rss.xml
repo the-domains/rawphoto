@@ -4,12 +4,12 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Mar 2017 21:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2017 21:30:36 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Mar 2017 21:25:38 GMT</pubDate>
+        <pubDate>Fri, 10 Mar 2017 21:29:40 GMT</pubDate>
         <item>
             <title><![CDATA[This Movie of Marble Being Quarried is Truly Mesmerizing]]></title>
-            <description><![CDATA[<h1>This Movie of Marble Being Quarried is Truly Mesmerizing</h1>,<p>Simply Amazing!</p>,<article><h1>{{ ($root.post &amp;&amp; $root.post.id) ? $root.post.translations[$root.lang].socialTitle : $root.seo.pageTitle | translate }}</h1><p>($root.post &amp;&amp; $root.post.id) ? $root.post.translations[$root.lang].socialSubtitle : $root.seo.metaDescription | translate }}</p></article>]]></description>
+            <description><![CDATA[<h1>This Movie of Marble Being Quarried is Truly Mesmerizing</h1>,<p>Simply Amazing!</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F108898457&url=https%3A%2F%2Fvimeo.com%2F108898457&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F492728005_1280.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
             <link>http://bit.ly/ZXTGO9</link>
             <guid isPermaLink="false">8b5e2302-717f-4012-90d4-f67bb464ed6e</guid>
             <pubDate>Fri, 10 Mar 2017 21:23:57 GMT</pubDate>
