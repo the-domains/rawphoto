@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-03-10T21:24:23.700Z'
+datePublished: '2017-03-13T23:26:01.988Z'
 description: >-
   I started shooting (more often), roughly between 2005 and 2006, and like all
   recent parents when my first child was born, I bought a new camera to try to
@@ -12,7 +12,7 @@ publisher:
   favicon: 'http://theartofphotography.tv/wp-content/themes/genesis/images/favicon.ico'
   url: 'http://theartofphotography.tv'
   domain: theartofphotography.tv
-dateModified: '2017-03-10T21:24:21.620Z'
+dateModified: '2017-03-13T23:26:00.471Z'
 sourcePath: _posts/2017-03-07-the-art-of-photography.md
 title: The Art of Photography
 hasPage: true
