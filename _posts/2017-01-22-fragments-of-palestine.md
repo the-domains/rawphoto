@@ -1,6 +1,6 @@
 ---
 inFeed: true
-datePublished: '2017-03-10T21:24:24.239Z'
+datePublished: '2017-03-13T23:26:02.507Z'
 author: []
 via: {}
 title: Fragments of Palestine
@@ -8,7 +8,7 @@ hasPage: true
 publisher:
   name: Nelson Cristo
 description: Shot at night outside Tel Aviv on the way to Ramallah
-dateModified: '2017-03-10T21:24:21.620Z'
+dateModified: '2017-03-13T23:26:00.471Z'
 sourcePath: _posts/2017-01-22-fragments-of-palestine.md
 starred: false
 datePublishedOriginal: '2017-01-22T11:54:04.899Z'
