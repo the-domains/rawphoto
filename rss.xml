@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Mar 2017 15:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2017 12:05:41 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Mar 2017 15:41:29 GMT</pubDate>
+        <pubDate>Wed, 15 Mar 2017 12:05:35 GMT</pubDate>
+        <item>
+            <title><![CDATA[Interiors#2]]></title>
+            <description><![CDATA[<h1>Interiors#2</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348370fb-85fc-4936-823f-99839cf700a2.jpg" title="Untitled">]]></description>
+            <link>http://rawphoto.pt/interiors2/index.html</link>
+            <guid isPermaLink="false">27adb0c2-c24b-4fcb-9762-a482ac78562d</guid>
+            <pubDate>Tue, 14 Mar 2017 15:41:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Benjamin Von Wong]]></title>
             <description><![CDATA[<h1>Benjamin Von Wong</h1>,<p>With a mining engineering background <a href="http://www.vonwong.com/" title="Von Wong Website">Von Wong</a> makes hyper-realist astonishing photography. This is really a self-taught photographer with a lot of talent.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d3ae238901a97bebb94cfcf03064ea99/noop.jpg?input=https%3A%2F%2Fphotos.smugmug.com%2Fphotos%2Fi-SHVDZXv%2F0%2FL%2Fi-SHVDZXv-L.jpg"><h1>Von Wong</h1><p>Benjamin Von Wong - A viral creative focused on telling epic stories through his surreal photography and videography experiences. Enter and explore his unique universe.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/at-night/index.html</link>
             <guid isPermaLink="false">81f8029b-bd52-460b-b7aa-ec06322403b8</guid>
             <pubDate>Fri, 24 Feb 2017 08:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kütahya, Turkey]]></title>
-            <description><![CDATA[<h1>Kütahya, Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9d40a8c-fc42-4161-95e0-77fe687d4de7.jpg">]]></description>
-            <link>http://rawphoto.pt/kutahya-turkey/index.html</link>
-            <guid isPermaLink="false">bbc62d70-17f7-4a08-a41d-7969366acd0d</guid>
-            <pubDate>Thu, 23 Feb 2017 00:29:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
