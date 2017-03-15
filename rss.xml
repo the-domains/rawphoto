@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Mar 2017 12:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2017 12:27:50 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Mar 2017 12:05:35 GMT</pubDate>
+        <pubDate>Wed, 15 Mar 2017 12:27:36 GMT</pubDate>
+        <item>
+            <title><![CDATA[Small visit to an Onix Quarry in Turkey]]></title>
+            <description><![CDATA[<h1>Small visit to an Onix Quarry in Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecfca966-7346-4494-bf0f-16ae4eaeff83.jpg">]]></description>
+            <link>http://rawphoto.pt/small-visit-to-an-onix-quarry-in-turkey/index.html</link>
+            <guid isPermaLink="false">d78f967f-683c-4e51-97cc-6b73ce59b3a8</guid>
+            <pubDate>Wed, 15 Mar 2017 12:05:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interiors#2]]></title>
             <description><![CDATA[<h1>Interiors#2</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/348370fb-85fc-4936-823f-99839cf700a2.jpg" title="Untitled">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/people-from-el-caminito/index.html</link>
             <guid isPermaLink="false">a5817371-c8d5-45ab-8cc0-3dcb6519271d</guid>
             <pubDate>Thu, 02 Mar 2017 10:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[at night…]]></title>
-            <description><![CDATA[<h1>at night…</h1>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8e9cb904c5a334d432748d68bba77706/croprotate.jpg?cropheight=1892&cropwidth=2744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F33c43c8b-5ba0-4803-a06d-b93657e8d500.jpg&x=0&y=0" title="at night...">]]></description>
-            <link>http://rawphoto.pt/at-night/index.html</link>
-            <guid isPermaLink="false">81f8029b-bd52-460b-b7aa-ec06322403b8</guid>
-            <pubDate>Fri, 24 Feb 2017 08:42:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
