@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-15T12:27:34.627Z'
-datePublished: '2017-03-15T12:27:35.156Z'
-title: Small visit to an Onix Quarry in Turkey
+dateModified: '2017-03-15T15:00:45.510Z'
+datePublished: '2017-03-15T15:00:46.070Z'
+title: Small visit to an Onyx Quarry in Turkey
 author: []
 publisher:
   name: Nelson Cristo
@@ -16,7 +16,7 @@ url: small-visit-to-an-onix-quarry-in-turkey/index.html
 _type: Article
 
 ---
-# Small visit to an Onix Quarry in Turkey
+# Small visit to an Onyx Quarry in Turkey
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecfca966-7346-4494-bf0f-16ae4eaeff83.jpg)
 
 ---
