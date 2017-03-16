@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-15T15:00:45.510Z'
-datePublished: '2017-03-15T15:00:46.070Z'
+dateModified: '2017-03-16T18:07:23.501Z'
+datePublished: '2017-03-16T18:07:24.576Z'
 title: Small visit to an Onyx Quarry in Turkey
 author: []
 publisher:
