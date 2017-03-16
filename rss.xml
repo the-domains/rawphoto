@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Mar 2017 15:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2017 18:07:32 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Mar 2017 15:48:09 GMT</pubDate>
+        <pubDate>Thu, 16 Mar 2017 18:07:27 GMT</pubDate>
+        <item>
+            <title><![CDATA[“Studio” Portraits]]></title>
+            <description><![CDATA[<h1>“Studio” Portraits</h1>,<p>With natural light, an “homemade” reflector and an IKEA desk lamp!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5df389e3-4348-4619-8548-a46a6e1b02e3.jpg">]]></description>
+            <link>http://rawphoto.pt/studio-portraits/index.html</link>
+            <guid isPermaLink="false">d5d69120-7976-4243-b1ae-9b6fc71b7065</guid>
+            <pubDate>Thu, 16 Mar 2017 15:48:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Small visit to an Onyx Quarry in Turkey]]></title>
             <description><![CDATA[<h1>Small visit to an Onyx Quarry in Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecfca966-7346-4494-bf0f-16ae4eaeff83.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/lisboa-alfama-and-others/index.html</link>
             <guid isPermaLink="false">b962f393-87d2-46c3-8240-ba44771a08e8</guid>
             <pubDate>Fri, 03 Mar 2017 09:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People from “El caminito”]]></title>
-            <description><![CDATA[<h1>People from “El caminito”</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4b10f4f-14b0-4974-ac3e-6bc53ece8a08.jpg">]]></description>
-            <link>http://rawphoto.pt/people-from-el-caminito/index.html</link>
-            <guid isPermaLink="false">a5817371-c8d5-45ab-8cc0-3dcb6519271d</guid>
-            <pubDate>Thu, 02 Mar 2017 10:10:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
