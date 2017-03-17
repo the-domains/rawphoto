@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-17T17:50:21.002Z'
-datePublished: '2017-03-17T17:50:51.426Z'
+dateModified: '2017-03-17T17:51:25.326Z'
+datePublished: '2017-03-17T17:51:25.900Z'
 title: Some years ago…
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-17-some-years-ago.md
 starred: false
 datePublishedOriginal: '2017-03-17T17:50:51.426Z'
-sourcePath: _posts/2017-03-17-some-years-ago.md
 url: some-years-ago/index.html
 _type: Article
 
