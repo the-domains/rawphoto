@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Mar 2017 17:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2017 17:51:39 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Mar 2017 17:50:52 GMT</pubDate>
+        <pubDate>Fri, 17 Mar 2017 17:51:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[Some years ago…]]></title>
+            <description><![CDATA[<h1>Some years ago…</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4419274a-26b5-4700-ad63-960417e7b6b0.jpg">]]></description>
+            <link>http://rawphoto.pt/some-years-ago/index.html</link>
+            <guid isPermaLink="false">747c7c03-d27b-4500-909b-92b7207f3171</guid>
+            <pubDate>Fri, 17 Mar 2017 17:50:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“Studio” Portraits]]></title>
             <description><![CDATA[<h1>“Studio” Portraits</h1>,<p>With natural light, an “homemade” reflector and an IKEA desk lamp!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5df389e3-4348-4619-8548-a46a6e1b02e3.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/interiors1/index.html</link>
             <guid isPermaLink="false">b0e714d7-f1a5-4638-a53e-203d5aa0ae42</guid>
             <pubDate>Mon, 06 Mar 2017 23:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisboa, Alfama (and others…)]]></title>
-            <description><![CDATA[<h1>Lisboa, Alfama (and others…)</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/107fc570-c5c0-4b52-a2c5-a621479fcc7c.jpg" title="The runaway...">]]></description>
-            <link>http://rawphoto.pt/lisboa-alfama-and-others/index.html</link>
-            <guid isPermaLink="false">b962f393-87d2-46c3-8240-ba44771a08e8</guid>
-            <pubDate>Fri, 03 Mar 2017 09:08:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
