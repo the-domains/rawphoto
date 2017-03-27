@@ -1,17 +1,19 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-27T22:53:40.235Z'
-datePublished: '2017-03-27T22:53:41.728Z'
+dateModified: '2017-03-27T22:56:46.482Z'
+datePublished: '2017-03-27T22:56:46.953Z'
 title: Lighthouses
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 sourcePath: _posts/2017-03-27-lighthouses.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-27T22:53:16.358Z'
-_type: Blurb
+url: lighthouses/index.html
+_type: Article
 
 ---
 # Lighthouses
