@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Mar 2017 22:54:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2017 22:56:49 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Mar 2017 22:53:59 GMT</pubDate>
+        <pubDate>Mon, 27 Mar 2017 22:56:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[Lighthouses]]></title>
+            <description><![CDATA[<h1>Lighthouses</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/316eaa93-efe9-400b-9a1b-b01bf9ca63ea.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39c4e684-e94f-461b-89f4-e64c0ea90d5a.jpg">]]></description>
+            <link>http://rawphoto.pt/lighthouses/index.html</link>
+            <guid isPermaLink="false">e053d3ff-ab56-4121-86d5-d27b8e5e0d38</guid>
+            <pubDate>Mon, 27 Mar 2017 22:53:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba05b2a5-c160-4ae8-8a76-2cab48ace46d.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/this-movie-of-marble-being-quarried-is-truly-mesmerizing/index.html</link>
             <guid isPermaLink="false">8b5e2302-717f-4012-90d4-f67bb464ed6e</guid>
             <pubDate>Fri, 10 Mar 2017 21:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Minerals#1]]></title>
-            <description><![CDATA[<h1>Minerals#1</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/23d04362-e8dc-43e7-97e9-a8634348f570.jpg">]]></description>
-            <link>http://rawphoto.pt/minerals1/index.html</link>
-            <guid isPermaLink="false">fc14270b-97dc-4c30-82c2-2c0e8b9d2773</guid>
-            <pubDate>Fri, 10 Mar 2017 10:33:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
