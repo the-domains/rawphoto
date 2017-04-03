@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A GREAT photographer
-dateModified: '2017-04-03T10:38:59.801Z'
-datePublished: '2017-04-03T10:39:05.275Z'
+dateModified: '2017-04-03T10:39:28.601Z'
+datePublished: '2017-04-03T10:39:29.577Z'
 title: Alexey Titarenko
 author: []
 publisher:
@@ -12,9 +12,9 @@ publisher:
   domain: www.alexeytitarenko.com
 via: {}
 hasPage: true
+sourcePath: _posts/2017-04-03-alexey-titarenko.md
 starred: false
 datePublishedOriginal: '2017-04-03T10:39:05.275Z'
-sourcePath: _posts/2017-04-03-alexey-titarenko.md
 url: alexey-titarenko/index.html
 _type: Article
 
