@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Apr 2017 10:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2017 10:39:49 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Apr 2017 10:39:09 GMT</pubDate>
+        <pubDate>Mon, 03 Apr 2017 10:39:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[Alexey Titarenko]]></title>
+            <description><![CDATA[<h1>Alexey Titarenko</h1>,<p>A GREAT photographer</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11c7e262253dc08f4d42af60227e98a0a7826e03"><h1>Selected work</h1><p>Alexey Titarenko was born in 1962 in St. Petersburg. His monograph The City is a Novel features over 140 photographs of his work in St. Petersburg, Venice, Havana, and New York.</p></article>,<p>Here it is something that you must see, taken from Ted Forbes Artist Series about Alexey Titarenko. </p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLGEE7pGLuppS6Wn-FHetQPfo0QbeDiTYe&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwhoZ8SRgi2s&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwhoZ8SRgi2s%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>http://rawphoto.pt/alexey-titarenko/index.html</link>
+            <guid isPermaLink="false">4676d117-5cb1-4c05-abef-69728a40352e</guid>
+            <pubDate>Mon, 03 Apr 2017 10:39:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lilliputians]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a5b520b-7be4-4a1e-a39d-a6cf6b50a9d4.jpg" title="Lilliputians">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/interiors2/index.html</link>
             <guid isPermaLink="false">27adb0c2-c24b-4fcb-9762-a482ac78562d</guid>
             <pubDate>Tue, 14 Mar 2017 15:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benjamin Von Wong]]></title>
-            <description><![CDATA[<h1>Benjamin Von Wong</h1>,<p>With a mining engineering background <a href="http://www.vonwong.com/" title="Von Wong Website">Von Wong</a> makes hyper-realist astonishing photography. This is really a self-taught photographer with a lot of talent.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d3ae238901a97bebb94cfcf03064ea99/noop.jpg?input=https%3A%2F%2Fphotos.smugmug.com%2Fphotos%2Fi-SHVDZXv%2F0%2FL%2Fi-SHVDZXv-L.jpg"><h1>Von Wong</h1><p>Benjamin Von Wong - A viral creative focused on telling epic stories through his surreal photography and videography experiences. Enter and explore his unique universe.</p></article>]]></description>
-            <link>http://rawphoto.pt/benjamin-von-wong/index.html</link>
-            <guid isPermaLink="false">8c6f8de4-9254-4bea-9bde-af960f5a0f97</guid>
-            <pubDate>Mon, 13 Mar 2017 23:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
