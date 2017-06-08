@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 21 Apr 2017 15:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2017 14:45:41 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Apr 2017 15:42:42 GMT</pubDate>
+        <pubDate>Thu, 08 Jun 2017 14:45:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[Walls]]></title>
+            <description><![CDATA[<h1>Walls</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b17cd75-e10c-43eb-958f-8a42ca8acb5e.jpg">]]></description>
+            <link>http://rawphoto.pt/walls/index.html</link>
+            <guid isPermaLink="false">0a38408d-80b5-43a4-a2a6-51d17bddb833</guid>
+            <pubDate>Fri, 02 Jun 2017 17:12:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vincent Laforet]]></title>
             <description><![CDATA[<h1>Vincent Laforet</h1>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/86fed2ce5213784be58f03afc036ae97/noop.jpg?input=http%3A%2F%2Fwww.laforetvisuals.com%2Fmedia%2Foriginal%2F135_photo-0.jpg"><h1>Vincent Laforet</h1><p>Vincent Laforet is a Los Angles New York based commercial Photographer, Director/DP who is regularly commissioned to work on a variety of advertising, fine art, corporate and editorial projects.</p></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/studio-portraits/index.html</link>
             <guid isPermaLink="false">d5d69120-7976-4243-b1ae-9b6fc71b7065</guid>
             <pubDate>Thu, 16 Mar 2017 15:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Small visit to an Onyx Quarry in Turkey]]></title>
-            <description><![CDATA[<h1>Small visit to an Onyx Quarry in Turkey</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecfca966-7346-4494-bf0f-16ae4eaeff83.jpg">]]></description>
-            <link>http://rawphoto.pt/small-visit-to-an-onix-quarry-in-turkey/index.html</link>
-            <guid isPermaLink="false">d78f967f-683c-4e51-97cc-6b73ce59b3a8</guid>
-            <pubDate>Wed, 15 Mar 2017 12:05:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
