@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-08T15:09:11.623Z'
-datePublished: '2017-06-08T15:09:21.309Z'
+dateModified: '2017-06-08T15:09:53.865Z'
+datePublished: '2017-06-08T15:09:55.257Z'
 title: Mountain Lake
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-08-mountain-lake.md
 starred: false
 datePublishedOriginal: '2017-06-08T15:09:21.309Z'
-sourcePath: _posts/2017-06-08-mountain-lake.md
 url: mountain-lake/index.html
 _type: Article
 
