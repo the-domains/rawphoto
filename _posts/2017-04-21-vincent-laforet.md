@@ -5,7 +5,7 @@ description: >-
   Director/DP who is regularly commissioned to work on a variety of advertising,
   fine art, corporate and editorial projects.
 dateModified: '2017-06-09T22:12:57.336Z'
-datePublished: '2017-06-09T22:12:59.487Z'
+datePublished: '2017-06-09T22:12:59.976Z'
 title: Vincent Laforet
 author: []
 publisher:
