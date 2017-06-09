@@ -1,14 +1,14 @@
 ---
 publisher:
   name: Nelson Cristo
-dateModified: '2017-06-08T15:09:53.865Z'
+dateModified: '2017-06-09T22:12:57.336Z'
 via: {}
 description: 'With natural light, an “homemade” reflector and an IKEA desk lamp!'
 title: “Studio” Portraits
 hasPage: true
 inFeed: true
 author: []
-datePublished: '2017-06-08T15:09:55.263Z'
+datePublished: '2017-06-09T22:12:59.501Z'
 sourcePath: _posts/2017-03-16-studio-portraits.md
 starred: false
 datePublishedOriginal: '2017-03-16T15:48:08.683Z'
