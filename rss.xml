@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Jun 2017 18:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2017 18:21:57 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Jun 2017 18:21:15 GMT</pubDate>
+        <pubDate>Sat, 10 Jun 2017 18:21:46 GMT</pubDate>
+        <item>
+            <title><![CDATA[Seascapes #2]]></title>
+            <description><![CDATA[<h1>Seascapes #2</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e26b28a-5834-4e63-91a3-07a66d52bca0.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd942337-7cb7-4d88-b712-9862292f450b.jpg">]]></description>
+            <link>http://rawphoto.pt/seascapes-2/index.html</link>
+            <guid isPermaLink="false">a85f66a6-e936-4a0c-bdb9-b0988de1b4c9</guid>
+            <pubDate>Sat, 10 Jun 2017 18:20:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[...]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/835818cb-c979-4637-9d60-564437b6d997.jpg" title="...">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/e02fb0a3-abf3-4c6e-81a3-dfca8e2af175/index.html</link>
             <guid isPermaLink="false">e02fb0a3-abf3-4c6e-81a3-dfca8e2af175</guid>
             <pubDate>Tue, 21 Mar 2017 15:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marble]]></title>
-            <description><![CDATA[<h1>Marble</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef186d70-1535-463f-8187-f36c87ce1ee0.jpg">]]></description>
-            <link>http://rawphoto.pt/a5129b72-8637-4951-8db3-afa6688dc0f6/index.html</link>
-            <guid isPermaLink="false">a5129b72-8637-4951-8db3-afa6688dc0f6</guid>
-            <pubDate>Mon, 20 Mar 2017 15:34:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
