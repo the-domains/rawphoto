@@ -4,8 +4,8 @@ description: >-
   This part of the website is where I share and archive what matters to me, what
   I like to read or to see and that somehow relates to photography
   (photographers, just photographs, tutorials or simple daily curiosities).
-dateModified: '2017-07-13T08:49:25.159Z'
-datePublished: '2017-07-13T08:49:26.502Z'
+dateModified: '2017-07-13T14:08:39.498Z'
+datePublished: '2017-07-13T14:08:42.078Z'
 title: nothigmatters//blog
 author: []
 publisher: {}
@@ -27,6 +27,18 @@ Enjoy!
 ---
 
 ---
+
+## AWAKEN
+
+"_Want to see some jaw-dropping camera work? Check out this 3-minute trailer for the upcoming feature film Awaken, by renowned time-lapse photographer Tom Lowe. It's a documentary that explores humanities relationship with both nature and technology._
+
+_Lowe shot the photos and footage over 5 years across 30 different countries. During that time, he flexed his creative muscles to pioneer "new time-lapse, time-dilation, underwater, and aerial cinematography techniques to give audiences new eyes with which to see our world."_
+
+_In other words, Lowe has broken new ground with his techniques, and at least one renowned photographer and filmmaker has been blown away by the work._"
+
+MICHAEL ZHANG - PETAPIXEL
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fu9GJSV3IZPo%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du9GJSV3IZPo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fu9GJSV3IZPo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ## [Where Do Ideas Come From?][0]
 
