@@ -54,7 +54,32 @@ collections:
       format: rss
       number: 10
 title: Nelson Cristo Photography
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef186d70-1535-463f-8187-f36c87ce1ee0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef186d70-1535-463f-8187-f36c87ce1ee0.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: >-
   Mineral Resources & related manmade "industrial landscape
   architecture"/Travel/Social Photography and... experiments. Sharing to, and
