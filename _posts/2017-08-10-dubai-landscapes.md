@@ -4,17 +4,17 @@ description: >-
   With very difficult conditions on interior lights, from Burj Khalifa’s top
   floor (the visitable one), and a very limited line of sight due to the sand on
   the air i was able to catch this landscapes.
-dateModified: '2017-08-10T15:35:43.087Z'
-datePublished: '2017-08-10T15:35:57.138Z'
+dateModified: '2017-08-10T15:36:32.605Z'
+datePublished: '2017-08-10T15:36:34.316Z'
 title: Dubai landscapes
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-10-dubai-landscapes.md
 starred: false
 datePublishedOriginal: '2017-08-10T15:35:57.138Z'
-sourcePath: _posts/2017-08-10-dubai-landscapes.md
 url: dubai-landscapes/index.html
 _type: Article
 
