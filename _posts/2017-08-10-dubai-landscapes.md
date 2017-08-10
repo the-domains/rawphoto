@@ -4,8 +4,8 @@ description: >-
   With very difficult conditions about the interior lights reflecting on the
   windows of Burj Khalifa’s top floor (the visitable one), and a very limited
   line of sight due to the sand on the air i was able to catch this landscapes.
-dateModified: '2017-08-10T22:53:39.888Z'
-datePublished: '2017-08-10T22:53:40.858Z'
+dateModified: '2017-08-10T22:54:04.458Z'
+datePublished: '2017-08-10T22:54:05.164Z'
 title: Dubai landscapes
 author: []
 publisher:
@@ -30,4 +30,6 @@ _type: Article
 
 With very difficult conditions about the interior lights reflecting on the windows of Burj Khalifa's top floor (the visitable one), and a very limited line of sight due to the sand on the air i was able to catch this landscapes.
 
-Almost 2 hours, but worth all the time spent up there. It was an experience!
+Almost 2 hours, but worth all the time spent up there (about 928 meters high).
+
+It was an experience!
