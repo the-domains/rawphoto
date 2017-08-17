@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Between first and the fifth of December last year me and my wife take a trip
   to Amsterdam (thankfully to my wife’s initiative…).
-dateModified: '2017-08-17T11:40:37.560Z'
-datePublished: '2017-08-17T11:41:08.062Z'
+dateModified: '2017-08-17T11:41:33.109Z'
+datePublished: '2017-08-17T11:41:34.840Z'
 title: A walk in Amsterdam
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-17-a-walk-in-amsterdam.md
 starred: false
 datePublishedOriginal: '2017-08-17T11:41:08.062Z'
-sourcePath: _posts/2017-08-17-a-walk-in-amsterdam.md
 url: a-walk-in-amsterdam/index.html
 _type: Article
 
