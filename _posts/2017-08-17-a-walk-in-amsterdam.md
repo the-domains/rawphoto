@@ -4,7 +4,7 @@ description: >-
   Between first and the fifth of December last year me and my wife take a trip
   to Amsterdam (thankfully to my wife’s initiative…).
 dateModified: '2017-08-17T11:41:33.109Z'
-datePublished: '2017-08-17T11:41:34.840Z'
+datePublished: '2017-08-17T11:41:43.957Z'
 title: A walk in Amsterdam
 author: []
 publisher: {}
