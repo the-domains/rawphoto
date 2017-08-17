@@ -4,8 +4,8 @@ description: >-
   With very difficult conditions about the interior lights reflecting on the
   windows of Burj Khalifa’s top floor (the visitable one), and a very limited
   line of sight due to the sand on the air i was able to catch this landscapes.
-dateModified: '2017-08-17T11:41:33.109Z'
-datePublished: '2017-08-17T11:41:43.600Z'
+dateModified: '2017-08-17T11:41:33.254Z'
+datePublished: '2017-08-17T11:42:35.263Z'
 title: Dubai landscapes
 author: []
 publisher:
