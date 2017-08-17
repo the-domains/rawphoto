@@ -8,7 +8,7 @@ title: “Studio” Portraits
 hasPage: true
 inFeed: true
 author: []
-datePublished: '2017-08-17T11:41:34.860Z'
+datePublished: '2017-08-17T11:41:43.930Z'
 sourcePath: _posts/2017-03-16-studio-portraits.md
 starred: false
 datePublishedOriginal: '2017-03-16T15:48:08.683Z'
