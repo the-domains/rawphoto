@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Between first and the fifth of December last year me and my wife take a trip
   to Amsterdam (thankfully to my wife’s initiative…).
-dateModified: '2017-08-17T13:46:51.336Z'
-datePublished: '2017-08-17T13:46:59.032Z'
+dateModified: '2017-08-17T16:43:06.721Z'
+datePublished: '2017-08-17T16:43:07.384Z'
 title: A walk in Amsterdam
 author: []
 publisher: {}
@@ -25,7 +25,7 @@ I've already been in Amsterdam, but never outside the airport, just making fligh
 
 This set of photos are part of the 3 day walk, without any arbitrary sequence.
 
-_**Overall conclusion: I would live there, easily!**_
+_**Overall conclusion: I could live there, easily!**_
 
 ---
 
