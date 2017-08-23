@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Between first and the fifth of December last year me and my wife take a trip
   to Amsterdam (thankfully to my wife’s initiative…).
-dateModified: '2017-08-17T16:43:06.721Z'
-datePublished: '2017-08-17T16:43:07.384Z'
+dateModified: '2017-08-23T21:38:41.604Z'
+datePublished: '2017-08-23T21:38:42.880Z'
 title: A walk in Amsterdam
 author: []
 publisher: {}
@@ -50,3 +50,7 @@ _**Overall conclusion: I could live there, easily!**_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cbfa1a6-de2b-4257-b2cf-66c32262e9ec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47b22e90-4477-48dd-b308-4cc1ef1e3709.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd856af2-2863-4325-b6c2-0d595124d60e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74760f2-7a9d-48fc-8856-47679efe978c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8d4b5c6-2941-46f9-b26a-34b88605e1e7.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bd782da-2ec5-4d74-a623-e29a00e130a8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ff64933-6dab-4fbd-86c3-3d1dae95c9e6.jpg)
