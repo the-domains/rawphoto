@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Love this! Specially the waves and locals series.
-dateModified: '2017-08-24T18:13:55.230Z'
-datePublished: '2017-08-24T18:14:02.097Z'
+dateModified: '2017-08-24T18:14:30.323Z'
+datePublished: '2017-08-24T18:14:33.892Z'
 title: Clifford Ross
 author: []
 publisher:
@@ -12,9 +12,9 @@ publisher:
   domain: www.cliffordross.com
 via: {}
 isBasedOnUrl: 'http://www.cliffordross.com'
+sourcePath: _posts/2017-08-24-clifford-ross.md
 starred: false
 datePublishedOriginal: '2017-08-24T18:14:02.097Z'
-sourcePath: _posts/2017-08-24-clifford-ross.md
 _type: MediaObject
 
 ---
