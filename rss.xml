@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Aug 2017 18:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2017 18:15:52 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Aug 2017 18:14:03 GMT</pubDate>
+        <pubDate>Thu, 24 Aug 2017 18:15:03 GMT</pubDate>
+        <item>
+            <title><![CDATA[Clifford Ross]]></title>
+            <description><![CDATA[<h1>Clifford Ross</h1>,<p>Love this! Specially the waves and locals series.</p>,<p>Please visit is inspiring.</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9f46884f07eb48660a5cc87780816a89/noop.jpg?input=http%3A%2F%2Fimages.cliffordross.com%2Fwww_cliffordross_com%2F2015_Clifford_Ross_0060.jpg"><h1>Clifford Ross</h1><p>The Photographs of Clifford Ross.</p></article>]]></description>
+            <link>http://www.cliffordross.com</link>
+            <guid isPermaLink="false">900dc9d3-c2b3-4ce4-bf41-80a8678a1390</guid>
+            <pubDate>Thu, 24 Aug 2017 18:14:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A walk in Amsterdam]]></title>
             <description><![CDATA[<h1>A walk in Amsterdam</h1>,<p>Between first and the fifth of December last year me and my wife take a trip to Amsterdam (thankfully to my wife’s initiative…).</p>,<p>I’ve already been in Amsterdam, but never outside the airport, just making flight transfers inside Europe. So this was the really first time in town!!!</p>,<p>This set of photos are part of the 3 day walk, without any arbitrary sequence.</p>,<p><em><strong>Overall conclusion: I could live there, easily!</strong></em></p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/alexey-titarenko/index.html</link>
             <guid isPermaLink="false">4676d117-5cb1-4c05-abef-69728a40352e</guid>
             <pubDate>Mon, 03 Apr 2017 10:39:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lilliputians]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a5b520b-7be4-4a1e-a39d-a6cf6b50a9d4.jpg" title="Lilliputians">]]></description>
-            <link>http://rawphoto.pt/lilliputians/index.html</link>
-            <guid isPermaLink="false">1f6797bd-b38a-4046-983c-8e5f6aa55945</guid>
-            <pubDate>Tue, 28 Mar 2017 23:10:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
