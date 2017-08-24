@@ -4,8 +4,8 @@ description: >-
   This part of the website is where I share and archive what matters to me, what
   I like to read or to see and that somehow relates to photography
   (photographers, just photographs, tutorials or simple daily curiosities).
-dateModified: '2017-08-24T18:14:30.323Z'
-datePublished: '2017-08-24T18:14:33.948Z'
+dateModified: '2017-08-24T18:21:43.948Z'
+datePublished: '2017-08-24T18:21:46.049Z'
 title: nothigmatters//blog
 author: []
 publisher: {}
@@ -28,11 +28,15 @@ Enjoy!
 
 ---
 
-## [José Ramos -- Luminous Landscape][0]
+## [Spectacular Mountain Landscape Photography by Max Rive][0]
+
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b25b4dc521e0d2b2a8bb7fef3010c4e4/noop.jpg?input=https%3A%2F%2Fphotogrist.com%2Fwp-content%2Fuploads%2F2017%2F03%2FMax-Rive.jpg" /><h1>Spectacular Mountain Landscape Photography by Max Rive</h1><p>Max Rive is a talented 30-year-old photographer, adventurer and climber from the Netherlands, who runs worldwide photo tours and shoots stunning mountains and landscapes. Max describes himself as an adventurer from Europe with a camera, he's already got over 622,000 followers on instagram. Rive uses a Nikon D800 and 14-24 mm lens.</p></article>
+
+## [José Ramos -- Luminous Landscape][1]
 
 <article style=""><img src="https://luminous-landscape.com/wp-content/uploads/2017/07/Colossus-I-810px.jpg" /><h1>José Ramos - My Photography - Luminous Landscape</h1><p>Location: Photo made in the unique palafite pier in Carrasqueira, Portugal. This is one of the few remaining palafite constructions in the world, used by Portuguese fishermen to keep their boats anchored. Technical info: Exposure: 30 seconds Aperture: f9.5 ISO: 200 Manual focus. Custom White Balance Tripod, remote shutter.</p></article>
 
-## [AWAKEN][1]
+## [AWAKEN][2]
 
 "_Want to see some jaw-dropping camera work? Check out this 3-minute trailer for the upcoming feature film Awaken, by renowned time-lapse photographer Tom Lowe. It's a documentary that explores humanities relationship with both nature and technology._
 
@@ -46,47 +50,47 @@ You can check other works from Tom Lowe on its website: http://timescapes.org
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fu9GJSV3IZPo%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Du9GJSV3IZPo&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fu9GJSV3IZPo%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-## [Where Do Ideas Come From?][2]
+## [Where Do Ideas Come From?][3]
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F223635321&amp;url=https%3A%2F%2Fvimeo.com%2F223635321&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F642490831_1280.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-## [The Ten Commandments of Retouching][3]
+## [The Ten Commandments of Retouching][4]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2a8cdbfe817b3b28d469b517a59c2316a644fc1.jpg" /><h1>The Ten Commandments of Retouching</h1><p>There are some things in life that are universal rules we should all follow-things like not cheating on your wife, not killing anyone, and not stealing. Easy enough, right? And if life has Ten Commandments that are just obvious things not to do, retouching should have them as well.</p></article>
 
-## [TWIN PEAKS REVISITED][4]
+## [TWIN PEAKS REVISITED][5]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f42b69115322809d828c63944264f3371d3bdee" /><h1>Twin Peaks Revisited</h1><p>TEXT and photographs BY todd hido INTRODUCTION BY SAM LANSKY When it debuted in the spring of 1990, nobody expected Twin Peaks -a murder mystery set in a spooky Pacific Northwest town-to rewrite the rules of television.</p></article>
 
-## [Photographer Shoots Formula 1 With 104-Year-Old Camera, And Here's The Result][5]
+## [Photographer Shoots Formula 1 With 104-Year-Old Camera, And Here's The Result][6]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/360f1c27c9c6ebdbe50aa60ddfc934e9601442e3.png" /><h1>Photographer Uses 104-Year-Old Camera To Shoot Formula 1 Racing</h1><p>If ever there was a sport that required rapid fire photography, Formula One racing is it. Which makes what photographer Joshua Paul does even more fascinating, because instead of using top-of-the-range cameras to capture the fast-paced sport, Paul chooses to take his shots using a 104-year-old Graflex 4×5 view camera.</p></article>
 
-## [The long road from Scotland to Russia][6]
+## [The long road from Scotland to Russia][7]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac6178d8c19244638fccece21bd15cc4167fc2eb.jpg" /><h1>In pictures: The long road from Scotland to Russia - BBC News</h1><p>How long does it take to drive from Scotland to Russia? James Parker took his camera and found out by driving 9,898 miles in a classic 1972 Morris Minor, raising money for charity on the way. Passing through 19 countries, across three deserts and over two seas, Parker spent 53 days on the road.</p></article>
 
-## [Watching Someone Make a Camera Lens From Scratch Explains Why No One Makes Camera Lenses From Scratch][7]
+## [Watching Someone Make a Camera Lens From Scratch Explains Why No One Makes Camera Lenses From Scratch][8]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b8093328f7c0dfa003c7b61ed4ef173762ec8cf.jpg" /><h1>Watching Someone Make a Camera Lens From Scratch Explains Why No One Makes Camera Lenses From Scratch</h1><p>The next time you complain about spending thousands of dollars on a precision camera lens, stop and think about all the all hard work that went into its design and creation. As camera maker Mats Wernersson reveals, were you to make a lens yourself, you'd be spending days ensuring every last component was flawless.</p></article>
 
-## [An Adventure Photographer Shares Stunning Pictures From The Ends Of The Earth][8]
+## [An Adventure Photographer Shares Stunning Pictures From The Ends Of The Earth][9]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0774a512a57cd65f3e4b504147aab991e7a20e4.jpg" /><h1>An Adventure Photographer Shares Stunning Pictures From The Ends Of The Earth</h1><p>If you're already going to go on some of the coolest adventures on the planet, then you pretty much have to take photos to document your travels, right? It's a no brainer, and describes exactly how Jake Anderson got into photography. "I was always doing sports and I was always outside," Anderson told us.</p></article>
 
-## **[Frederik Buyckx named Sony World Photography Awards 2017 Photographer of the Year][9]**
+## **[Frederik Buyckx named Sony World Photography Awards 2017 Photographer of the Year][10]**
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00e21e0fe831f0934d420f52ccc2f0ed810dd098.jpg" /><h1>Frederik Buyckx named Sony World Photography Awards 2017 Photographer of the Year</h1><p>Belgian photographer Frederik Buyckx has been named the Sony World Photography Awards 2017 Photographer of the Year. Buyckx is a freelance photographer for the Belgian newspaper De Standaard and will receive the $25,000 prize for his winning series of images entitle 'Whiteout', which was shot in the Balkans, Scandinavia and Central Asia, all remote areas where people often live in isolation and in close contact with nature.</p></article>
 
-## [Sony World Photography Awards 2017: Best photo from each of the 66 countries that entered the world's biggest photography contest][10]
+## [Sony World Photography Awards 2017: Best photo from each of the 66 countries that entered the world's biggest photography contest][11]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/64929f310454ebec16595aa8acb518d4a4116e8f.jpg" /><h1>Sony World Photography Awards 2017: Best photo from each of the 66 countries that entered the world's biggest photography contest</h1><p>The winners of the 2017 Sony World Photography Awards have been revealed. This year's edition of the world's biggest photography competition received more than 105,000 entries from 66 countries. The judges have also revealed the winners of the 2017 Sony World Photography Awards National Awards, a global programme to find the best single picture taken by a local photographer in each country.</p></article>
 
-## [Photography Guide to Northern Spain][11]
+## [Photography Guide to Northern Spain][12]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38a07d479af025116ee4f2733ee8de7649a09486.jpg" /><h1>Photography Guide to Northern Spain - Capture Landscapes</h1><p>Northern Spain has grown to become one of my favorite locations for landscape photography. Since living there for one year as an exchange student during my last year of university, I've been back several times to explore more of its unique and dramatic nature.</p></article>
 
-## [Spectacular Mountain Landscape Photography by Max Rive][12]
+## [Spectacular Mountain Landscape Photography by Max Rive][0]
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfaa15778e70196a0e2288651de61dc9bf203eaf.jpg" /><h1>Spectacular Mountain Landscape Photography by Max Rive</h1><p>Max Rive is a talented 30-year-old photographer, adventurer and climber from the Netherlands, who runs worldwide photo tours and shoots stunning mountains and landscapes. Max describes himself as an adventurer from Europe with a camera, he's already got over 622,000 followers on instagram. Rive uses a Nikon D800 and 14-24 mm lens.</p></article>
 
@@ -276,19 +280,19 @@ You can check other works from Tom Lowe on its website: http://timescapes.org
 
 
 
-[0]: https://luminous-landscape.com/jose-ramos-photography/ "Read"
-[1]: https://youtu.be/u9GJSV3IZPo "Watch"
-[2]: https://vimeo.com/223635321 "Read"
-[3]: https://petapixel.com/2017/05/15/ten-commandments-retouching/ "Read"
-[4]: http://time.com/twin-peaks-revisited/ "Read"
-[5]: http://www.boredpanda.com/photographer-shoots-f1-old-graflex-camera-joshua-paul/ "Read"
-[6]: http://www.bbc.com/news/in-pictures-39882616 "Read"
-[7]: http://sploid.gizmodo.com/watching-someone-make-a-camera-lens-from-scratch-explai-1794718826 "Read"
-[8]: http://uproxx.com/life/jake-anderson-adventure-photography/ "Read"
-[9]: https://www.dpreview.com/news/6879176915/frederik-buyckx-named-sony-world-photography-awards-2017-photographer-of-the-year "Read"
-[10]: http://www.ibtimes.co.uk/sony-world-photography-awards-2017-best-photo-each-66-countries-that-entered-worlds-biggest-1614074 "Read"
-[11]: https://www.capturelandscapes.com/photography-guide-to-northern-spain/ "Read"
-[12]: https://photogrist.com/mountain-landscapes-max-rive/ "Read"
+[0]: https://photogrist.com/mountain-landscapes-max-rive/ "Read"
+[1]: https://luminous-landscape.com/jose-ramos-photography/ "Read"
+[2]: https://youtu.be/u9GJSV3IZPo "Watch"
+[3]: https://vimeo.com/223635321 "Read"
+[4]: https://petapixel.com/2017/05/15/ten-commandments-retouching/ "Read"
+[5]: http://time.com/twin-peaks-revisited/ "Read"
+[6]: http://www.boredpanda.com/photographer-shoots-f1-old-graflex-camera-joshua-paul/ "Read"
+[7]: http://www.bbc.com/news/in-pictures-39882616 "Read"
+[8]: http://sploid.gizmodo.com/watching-someone-make-a-camera-lens-from-scratch-explai-1794718826 "Read"
+[9]: http://uproxx.com/life/jake-anderson-adventure-photography/ "Read"
+[10]: https://www.dpreview.com/news/6879176915/frederik-buyckx-named-sony-world-photography-awards-2017-photographer-of-the-year "Read"
+[11]: http://www.ibtimes.co.uk/sony-world-photography-awards-2017-best-photo-each-66-countries-that-entered-worlds-biggest-1614074 "Read"
+[12]: https://www.capturelandscapes.com/photography-guide-to-northern-spain/ "Read"
 [13]: http://www.archdaily.com/806804/20-photos-selected-as-winners-of-eyeems-minimalist-architecture-photography-mission "Read"
 [14]: https://creators.vice.com/en_us/article/darby-lahger-witch-in-the-woods-scandinavian-artist "Read"
 [15]: https://www.dezeen.com/2017/03/08/photography-sebastian-weiss-santiago-calatrava-architecture-white-sculptures-city-arts-sciences-valencia-spain/ "Read"
