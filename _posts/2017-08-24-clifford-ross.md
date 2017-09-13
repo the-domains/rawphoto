@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Love this! Specially the waves and locals series.
-dateModified: '2017-09-13T15:57:00.562Z'
-datePublished: '2017-09-13T15:57:01.922Z'
+dateModified: '2017-09-13T21:48:18.100Z'
+datePublished: '2017-09-13T21:48:20.080Z'
 title: Clifford Ross
 author: []
 publisher:
