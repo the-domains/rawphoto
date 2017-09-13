@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-24T18:14:30.323Z'
-datePublished: '2017-08-24T18:14:33.892Z'
+dateModified: '2017-09-13T15:57:00.562Z'
+datePublished: '2017-09-13T15:57:01.663Z'
 title: Mountain Lake
 author: []
 publisher:
