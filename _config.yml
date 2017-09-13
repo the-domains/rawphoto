@@ -89,5 +89,5 @@ purpose:
     label: Contact
   - type: external
     url: 'http://rawphoto.pt/rss.xml'
-    label: Sign up RSS
+    label: RSS Feed
 github: true
