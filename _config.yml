@@ -87,4 +87,7 @@ purpose:
   - type: contact
     url: 'mailto:nelson.cristo@gmail.com'
     label: Contact
+  - type: external
+    url: 'http://rawphoto.pt/rss.xml'
+    label: Sign up RSS
 github: true
