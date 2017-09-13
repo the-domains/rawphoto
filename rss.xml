@@ -4,9 +4,16 @@
         <description><![CDATA[Nelson Cristo Photography]]></description>
         <link>http://rawphoto.pt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Sep 2017 16:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2017 21:49:33 GMT</lastBuildDate>
         <atom:link href="http://rawphoto.pt/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Sep 2017 16:05:50 GMT</pubDate>
+        <pubDate>Wed, 13 Sep 2017 21:49:02 GMT</pubDate>
+        <item>
+            <title><![CDATA[#Portraits]]></title>
+            <description><![CDATA[<h1>#Portraits</h1>,<p>Singular and spontaneous portraits taken this summer only with natural light</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc8ad331-669f-49a1-bfb1-57a82ae769e8.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e5c8699-41da-468f-939a-b16411629ba6.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb9636f8-f9fc-4048-8b09-d94fa26dc9b9.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f58c9722-3f40-46b5-aad1-d6bc85ece463.jpg">]]></description>
+            <link>http://rawphoto.pt/portraits/index.html</link>
+            <guid isPermaLink="false">4d84df56-6da2-4e01-89d8-11f322704874</guid>
+            <pubDate>Wed, 13 Sep 2017 21:47:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[#Marrakech]]></title>
             <description><![CDATA[<h1>#Marrakech</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2185d2c4-1ee8-4866-ba74-300d26cace01.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c103404-75a0-4678-b9a4-a259ea06737f.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/316f7363-e543-470b-a8fe-4e2e2b6fa889.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/09d19ab7-4886-4cc3-80e5-be44f5aaee70.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/403ba6e6-71b2-4542-aa48-caf77862bd85.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f704913-343d-46e4-b070-bb9f24eeee40.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2ec6d75-633a-41a2-b15e-36b2b648630a.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/701c800b-efd5-4461-8b4a-6ab02310b4e6.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e13c9ebf-ef01-45ed-8a19-450bd8c09268.jpg">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c96d40-1634-49a9-ac3e-033b8f017e8c.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>http://rawphoto.pt/walls/index.html</link>
             <guid isPermaLink="false">0a38408d-80b5-43a4-a2a6-51d17bddb833</guid>
             <pubDate>Fri, 02 Jun 2017 17:12:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vincent Laforet]]></title>
-            <description><![CDATA[<h1>Vincent Laforet</h1>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/86fed2ce5213784be58f03afc036ae97/noop.jpg?input=http%3A%2F%2Fwww.laforetvisuals.com%2Fmedia%2Foriginal%2F135_photo-0.jpg"><h1>Vincent Laforet</h1><p>Vincent Laforet is a Los Angles New York based commercial Photographer, Director/DP who is regularly commissioned to work on a variety of advertising, fine art, corporate and editorial projects.</p></article>]]></description>
-            <link>http://www.laforetvisuals.com</link>
-            <guid isPermaLink="false">32fecec6-7840-4155-8609-d2f58c4406dc</guid>
-            <pubDate>Fri, 21 Apr 2017 15:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
