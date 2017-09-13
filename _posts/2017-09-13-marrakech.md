@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-13T15:56:20.183Z'
-datePublished: '2017-09-13T15:56:37.537Z'
+dateModified: '2017-09-13T15:57:00.562Z'
+datePublished: '2017-09-13T15:57:01.663Z'
 title: '#Marrakech'
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-13-marrakech.md
 starred: false
 datePublishedOriginal: '2017-09-13T15:56:37.537Z'
-sourcePath: _posts/2017-09-13-marrakech.md
 url: marrakech/index.html
 _type: Article
 
