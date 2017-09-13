@@ -16,7 +16,7 @@ opengraph:
   type: null
   appId: null
 analytics:
-  twitter: null
+  twitter: '@ncristo'
   google: UA-44801613-2
   facebook: null
 author:
