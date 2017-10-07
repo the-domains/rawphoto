@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-07T21:34:45.035Z'
-datePublished: '2017-10-07T21:34:45.808Z'
+dateModified: '2017-10-07T21:35:24.366Z'
+datePublished: '2017-10-07T21:35:25.999Z'
 title: '@Paris Just... #Notre_Damme'
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-07-paris-notre_damme.md
 starred: false
 datePublishedOriginal: '2017-10-07T21:34:44.721Z'
-sourcePath: _posts/2017-10-07-paris-notre_damme.md
 url: paris-notre_damme/index.html
 _type: Article
 
