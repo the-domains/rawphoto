@@ -5,8 +5,8 @@ description: >-
   the windows of Burj Khalifa’s top floor (the visitable one), and a very
   limited line of sight due to the sand on the air i was able to catch this
   landscapes.
-dateModified: '2017-09-13T21:48:18.100Z'
-datePublished: '2017-09-13T21:48:20.196Z'
+dateModified: '2017-10-07T21:34:03.691Z'
+datePublished: '2017-10-07T21:34:05.663Z'
 title: Dubai landscapes
 author: []
 publisher:
