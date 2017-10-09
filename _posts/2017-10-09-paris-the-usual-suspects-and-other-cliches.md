@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-09T18:02:19.730Z'
-datePublished: '2017-10-09T18:02:27.988Z'
+dateModified: '2017-10-09T18:02:55.719Z'
+datePublished: '2017-10-09T18:02:56.892Z'
 title: '@paris, The Usual Suspects & Other Clichés'
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-09-paris-the-usual-suspects-and-other-cliches.md
 starred: false
 datePublishedOriginal: '2017-10-09T18:02:27.988Z'
-sourcePath: _posts/2017-10-09-paris-the-usual-suspects-and-other-cliches.md
 url: paris-the-usual-suspects-and-other-cliches/index.html
 _type: Article
 
