@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: A GREAT photographer
-dateModified: '2017-10-07T21:35:24.366Z'
-datePublished: '2017-10-07T21:35:26.000Z'
+dateModified: '2017-10-09T18:02:55.719Z'
+datePublished: '2017-10-09T18:02:56.799Z'
 title: Alexey Titarenko
 author: []
 publisher:
