@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-14T15:41:44.464Z'
-datePublished: '2017-03-14T15:41:46.735Z'
+dateModified: '2017-10-16T20:21:32.823Z'
+datePublished: '2017-10-16T20:26:58.358Z'
 title: Stone & Blades
 author: []
 publisher:
