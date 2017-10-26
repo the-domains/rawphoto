@@ -1,12 +1,13 @@
 ---
-publisher: {}
-dateModified: '2017-10-26T17:45:21.559Z'
+publisher:
+  name: Nelson Cristo
+dateModified: '2017-10-26T17:46:43.432Z'
 via: {}
 description: '#iPhone_photo'
 title: Summer on October…
 inFeed: true
 author: []
-datePublished: '2017-10-26T17:45:22.278Z'
+datePublished: '2017-10-26T17:46:44.059Z'
 sourcePath: _posts/2017-10-16-summer-on-october.md
 starred: true
 datePublishedOriginal: '2017-10-16T20:17:56.420Z'
