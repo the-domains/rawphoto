@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-03-27T22:27:50.308Z'
-datePublished: '2018-03-27T22:28:38.254Z'
+dateModified: '2018-03-27T22:29:23.362Z'
+datePublished: '2018-03-27T22:29:25.728Z'
 title: Beijing … A Glimpse of The City
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2018-03-27-beijing-a-glimpse-of-the-city.md
 starred: false
 datePublishedOriginal: '2018-03-27T22:28:38.254Z'
-sourcePath: _posts/2018-03-27-beijing-a-glimpse-of-the-city.md
 url: beijing-a-glimpse-of-the-city/index.html
 _type: Article
 
