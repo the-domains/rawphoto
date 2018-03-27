@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-16T20:21:32.823Z'
-datePublished: '2017-10-16T20:27:44.004Z'
+dateModified: '2018-03-27T22:29:23.362Z'
+datePublished: '2018-03-27T22:29:25.834Z'
 title: The other side of the quarries
 author: []
 publisher:
