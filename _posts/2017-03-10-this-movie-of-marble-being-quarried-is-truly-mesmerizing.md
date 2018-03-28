@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Simply Amazing!
-dateModified: '2018-03-28T09:56:09.535Z'
-datePublished: '2018-03-28T09:56:13.998Z'
+dateModified: '2018-03-28T11:09:50.555Z'
+datePublished: '2018-03-28T11:09:53.445Z'
 title: This Movie of Marble Being Quarried is Truly Mesmerizing
 author:
   - name: NOWNESS
