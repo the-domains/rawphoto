@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Beijing… part of the history…
-dateModified: '2018-03-28T11:09:50.555Z'
-datePublished: '2018-03-28T11:09:53.295Z'
-title: ''
+description: ''
+dateModified: '2018-03-28T13:50:12.472Z'
+datePublished: '2018-03-28T13:50:13.063Z'
+title: Beijing… part of the history…
 author: []
 publisher:
   name: Nelson Cristo
@@ -16,7 +16,7 @@ url: beijing-part-of-the-history/index.html
 _type: Article
 
 ---
-Beijing... part of the history...
+# Beijing... part of the history...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84f8afed-9d92-49e3-8196-02277ee22234.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/009d6197-e302-405a-a67a-c1fea8148db6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69e1b2be-0565-4a11-9c4f-a902bcf6bbd0.jpg)
