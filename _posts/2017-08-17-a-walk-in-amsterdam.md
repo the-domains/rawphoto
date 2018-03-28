@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Between first and the fifth of December last year me and my wife take a trip
   to Amsterdam (thankfully to my wife’s initiative…).
-dateModified: '2018-03-27T22:29:23.362Z'
-datePublished: '2018-03-27T22:29:25.811Z'
+dateModified: '2018-03-28T09:56:09.535Z'
+datePublished: '2018-03-28T09:56:13.996Z'
 title: A walk in Amsterdam
 author: []
 publisher: {}
