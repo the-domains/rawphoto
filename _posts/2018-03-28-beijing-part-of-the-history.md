@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: Beijing… part of the history…
-dateModified: '2018-03-28T11:08:53.117Z'
-datePublished: '2018-03-28T11:09:03.864Z'
+dateModified: '2018-03-28T11:09:50.555Z'
+datePublished: '2018-03-28T11:09:53.295Z'
 title: ''
 author: []
 publisher:
   name: Nelson Cristo
 via: {}
 hasPage: true
+sourcePath: _posts/2018-03-28-beijing-part-of-the-history.md
 starred: false
 datePublishedOriginal: '2018-03-28T11:09:03.864Z'
-sourcePath: _posts/2018-03-28-beijing-part-of-the-history.md
 url: beijing-part-of-the-history/index.html
 _type: Article
 
