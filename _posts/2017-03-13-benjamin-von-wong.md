@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   With a mining engineering background Von Wong makes hyper-realist astonishing
   photography. This is really a self-taught photographer with a lot of talent.
-dateModified: '2018-03-28T11:09:50.555Z'
-datePublished: '2018-03-28T11:09:53.387Z'
+dateModified: '2018-12-04T23:19:08.761Z'
+datePublished: '2018-12-04T23:19:12.160Z'
 title: Benjamin Von Wong
 author: []
 publisher:
