@@ -4,8 +4,8 @@ description: >-
   Vincent Laforet is a Los Angles New York based commercial Photographer,
   Director/DP who is regularly commissioned to work on a variety of advertising,
   fine art, corporate and editorial projects.
-dateModified: '2018-03-28T11:09:50.555Z'
-datePublished: '2018-03-28T11:09:53.296Z'
+dateModified: '2018-12-04T23:19:08.761Z'
+datePublished: '2018-12-04T23:19:12.142Z'
 title: Vincent Laforet
 author: []
 publisher:
