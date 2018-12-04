@@ -4,8 +4,8 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2018-03-28T11:09:53.635Z'
-dateModified: '2018-03-28T11:09:50.555Z'
+datePublished: '2018-12-04T23:19:12.310Z'
+dateModified: '2018-12-04T23:19:08.761Z'
 title: Experimenting with light and some kids playing
 author: []
 sourcePath: _posts/2016-07-11-experimenting-with-light-and-some-kids-playing.md
